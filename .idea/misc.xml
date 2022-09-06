@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kenan/kod/Android-studio/My-Instagram/My_Instagram/app/src/main/res/layout/activity_feed.xml" value="0.15208333333333332" />
+        <entry key="..\:/Kenan/kod/Android-studio/My-Instagram/My_Instagram/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Kenan/kod/Android-studio/My-Instagram/My_Instagram/app/src/main/res/layout/activity_signup.xml" value="0.20416666666666666" />
+        <entry key="..\:/Kenan/kod/Android-studio/My-Instagram/My_Instagram/app/src/main/res/layout/activity_upload.xml" value="0.15208333333333332" />
+        <entry key="..\:/Kenan/kod/Android-studio/My-Instagram/My_Instagram/app/src/main/res/layout/recycler_row.xml" value="0.15104166666666666" />
+        <entry key="..\:/Kenan/kod/Android-studio/My-Instagram/My_Instagram/app/src/main/res/menu/insta_options_menu.xml" value="0.1140625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

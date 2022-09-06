@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Insta</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="add_post">Add Post</string>
+    <string name="comment_text">comment text</string>
+    <string name="todo">TODO</string>
+    <string name="useremail_text">useremail text</string>
+    <string name="upload">Upload</string>
+    <string name="enter_comment">enter comment</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">password</string>
+    <string name="email_address">email address</string>
+</resources>
